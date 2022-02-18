@@ -1,7 +1,7 @@
 public class Calculator {
 
-    static int multiply(int num1, int num2) {
-        int result = num1 * num2;
+    static Double multiply(Double num1, Double num2) {
+        Double result = num1 * num2;
         return result;
     }
 
